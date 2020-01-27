@@ -15,9 +15,18 @@ class ProductPage(BasePage):
     def check_item_names_equal(self):
         item_name = self.browser.find_element(*ProductPageLocators.ITEM_NAME).text
         item_added_message = self.browser.find_element(*ProductPageLocators.ITEM_ADDED_MESSAGE).text
-        assert item_name in item_added_message, "Item names aren't equal"
+        print(item_name)
+        print("=================")
+        print(item_added_message)
+        print("=================")
+        assert item_name == item_added_message, "Item names aren't equal"
 
     def check_prices_equal(self):
         item_price = self.browser.find_element(*ProductPageLocators.ITEM_PRICE).text
         item_price_in_basket = self.browser.find_element(*ProductPageLocators.PRICE_IN_BASKET).text
-        assert item_price in item_price_in_basket, "Prices aren't equal"
+        print(item_price)
+        print("=================")
+        print(item_price_in_basket)
+        print("=================")
+        assert item_price == item_price_in_basket, "Prices aren't equal"
+
