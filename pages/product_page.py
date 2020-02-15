@@ -30,3 +30,10 @@ class ProductPage(BasePage):
         print("=================")
         assert item_price == item_price_in_basket, "Prices aren't equal"
 
+    def should_not_presented_succeed_message(self):
+        assert self.is_not_element_present(*ProductPageLocators.ITEM_ADDED_MESSAGE), "Item is presented"
+
+    def should_disappeared_success_message(self):
+        assert self.is_element_is_present(*ProductPageLocators.ITEM_ADDED_MESSAGE), "Item isn't presented"
+        assert self.is_disappeared(*ProductPageLocators.ITEM_ADDED_MESSAGE), "Success message still presented"
+

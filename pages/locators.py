@@ -16,7 +16,4 @@ class ProductPageLocators():
     ITEM_NAME = (By.CSS_SELECTOR, ".product_main>h1")
 
 
-# .basket-mini корзина
-# #messages>div:nth-child(1) - сообщение
-# .product_main>.price_color цена товара
-# .product_main>h1 - название товара
+
