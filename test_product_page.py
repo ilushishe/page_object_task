@@ -6,7 +6,6 @@ from .pages.main_page import MainPage
 import time
 
 
-
 @pytest.mark.login_as_register_user
 class TestUserAddToBasketFromProductPage():
     @pytest.fixture(scope="function", autouse=True)
