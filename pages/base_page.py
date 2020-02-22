@@ -6,8 +6,9 @@ from selenium.webdriver.support import expected_conditions as EC
 import math
 from .locators import BasePageLocators
 
+
 class BasePage():
-    def __init__(self,browser,url, timeout=10):
+    def __init__(self, browser, url, timeout=10):
         self.browser = browser
         self.url = url
         self.browser.implicitly_wait(timeout)
@@ -28,11 +29,11 @@ class BasePage():
 
     def should_be_authorized_user(self):
         assert self.is_element_is_present(*BasePageLocators.USER_ICON), "User icon is not presented," \
-                                                                     " probably unauthorised user"
+                                                                        " probably unauthorised user"
 
     def is_element_is_present(self, how, what):
         try:
-            self.browser.find_element(how,what)
+            self.browser.find_element(how, what)
         except (NoSuchElementException):
             return False
         return True
@@ -46,8 +47,8 @@ class BasePage():
 
     def is_disappeared(self, how, what, timeout=4):
         try:
-            WebDriverWait(self.browser, timeout, 1, TimeoutException).\
-            until_not(EC.presence_of_element_located((how, what)))
+            WebDriverWait(self.browser, timeout, 1, TimeoutException). \
+                until_not(EC.presence_of_element_located((how, what)))
         except TimeoutException:
             return False
         return True
