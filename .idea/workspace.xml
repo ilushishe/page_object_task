@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d303bf7f-ee6e-48ae-9774-6b55c1bd477e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XBEpQjbv3bVao5uYYpu1cjvkiR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_product_page.TestUserAddToBasketFromProductPage">
+    <configuration name="pytest for test_main_page.TestLoginFormMainPage" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="page_object_task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_main_page.TestLoginFormMainPage&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_product_page.TestUserAddToBasketFromProductPage" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="page_object_task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_product_page.TestUserAddToBasketFromProductPage&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_product_page.TestUserAddToBasketFromProductPage.test_guest_cant_see_success_message.test_guest_can_add_product_to_basket" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="page_object_task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_product_page.TestUserAddToBasketFromProductPage.test_guest_cant_see_success_message.test_guest_can_add_product_to_basket&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_product_page.TestUserAddToBasketFromProductPage.test_user_can_add_product_to_basket" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="page_object_task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_product_page.TestUserAddToBasketFromProductPage.test_user_can_add_product_to_basket&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_product_page.TestUserAddToBasketFromProductPage.test_user_cant_see_success_message" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="page_object_task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_product_page.TestUserAddToBasketFromProductPage.test_user_cant_see_success_message&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_product_page.TestUserAddToBasketFromProductPage" />
+        <item itemvalue="Python tests.pytest for test_product_page.TestUserAddToBasketFromProductPage.test_user_can_add_product_to_basket" />
+        <item itemvalue="Python tests.pytest for test_main_page.TestLoginFormMainPage" />
+        <item itemvalue="Python tests.pytest for test_product_page.TestUserAddToBasketFromProductPage.test_user_cant_see_success_message" />
+        <item itemvalue="Python tests.pytest for test_product_page.TestUserAddToBasketFromProductPage.test_guest_cant_see_success_message.test_guest_can_add_product_to_basket" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d303bf7f-ee6e-48ae-9774-6b55c1bd477e" name="Default Changelist" comment="" />
+      <created>1580511269367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580511269367</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582398031006">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="582" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1582398031006" />
+    <state width="1899" height="288" key="GridCell.Tab.0.bottom" timestamp="1582397679091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582397679091" />
+    <state width="1899" height="434" key="GridCell.Tab.0.bottom/0.23.1920.1006@0.23.1920.1006" timestamp="1582262547313" />
+    <state width="1899" height="288" key="GridCell.Tab.0.center" timestamp="1582397679091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="288" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582397679091" />
+    <state width="1899" height="434" key="GridCell.Tab.0.center/0.23.1920.1006@0.23.1920.1006" timestamp="1582262547313" />
+    <state width="1899" height="288" key="GridCell.Tab.0.left" timestamp="1582397679090">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="288" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582397679090" />
+    <state width="1899" height="434" key="GridCell.Tab.0.left/0.23.1920.1006@0.23.1920.1006" timestamp="1582262547312" />
+    <state width="1899" height="288" key="GridCell.Tab.0.right" timestamp="1582397679091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="288" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582397679091" />
+    <state width="1899" height="434" key="GridCell.Tab.0.right/0.23.1920.1006@0.23.1920.1006" timestamp="1582262547313" />
+    <state x="414" y="184" key="SettingsEditor" timestamp="1580511739548">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="414" y="184" key="SettingsEditor/0.23.1920.1006@0.23.1920.1006" timestamp="1580511739548" />
+    <state x="653" y="370" key="com.intellij.ide.util.TipDialog" timestamp="1582306640455">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="653" y="370" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582211536885" />
+    <state x="653" y="370" key="com.intellij.ide.util.TipDialog/0.23.1920.1006@0.23.1920.1006" timestamp="1582306640455" />
+  </component>
+</project>
